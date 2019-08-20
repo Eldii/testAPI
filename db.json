@@ -4,6 +4,16 @@
     { "name": "Annonce 2", "code": 2, "path": "annonce2.wav" },
     { "name": "Annonce 3", "code": 3, "path": "annonce3.wav" }
   ],
+  "tracks": [
+    {
+       "id": 1,
+       "number": "93",
+       "powerLevel": "SWITCHED_OFF",
+       "workshop": 1,
+       "isActive": true,
+       "isProtected": true
+    } 
+  ],
   "audiofilesselected": [
   ],
   "stations": [{"id":1,"name":"Gare de Lyon","announcement":["Annonce 1","Annonce 2"]},{"id":2,"name":"Gare du Nord","announcement":["Annonce 1","Annonce 2","Annonce 3"]}]
