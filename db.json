@@ -4,6 +4,20 @@
     { "name": "Annonce 2", "code": 2, "path": "annonce2.wav" },
     { "name": "Annonce 3", "code": 3, "path": "annonce3.wav" }
   ],
+  "workshop": 
+    {
+      "id": 1,
+      "name": "Nicolaï",
+      "workshopType": 0,
+      "tracks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+      ]
+    }
   "tracks": [
     {
        "id": 1,
@@ -36,7 +50,23 @@
         "workshop": 1,
         "isActive": true,
         "isProtected": false
-    }
+    },
+    {
+        "id": 5,
+        "number": "85",
+        "powerLevel": null,
+        "workshop": 1,
+        "isActive": true,
+        "isProtected": false
+    },
+    {
+        "id": 6,
+        "number": "83",
+        "powerLevel": null,
+        "workshop": 1,
+        "isActive": true,
+        "isProtected": false
+    }    
   ],
   "arrets": [
     {
