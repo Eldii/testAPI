@@ -68,36 +68,6 @@
         "isProtected": false
     }    
   ],
-  "arrets": [
-    {
-        "codeLieu": "OTAG",
-        "libelle": "50 Otages",
-        "distance": null,
-        "ligne": [
-            { "numLigne": "2" },
-            { "numLigne": "C2"},
-            { "numLigne": "12"},
-            { "numLigne": "23"}
-        ]
-    },
-    {
-        "codeLieu": "MAI8",
-        "libelle": "8 Mai",
-        "distance": null,
-        "ligne": [
-            { "numLigne": "2" },
-            { "numLigne": "3" }
-        ]
-    },
-    {
-        "codeLieu": "TEST2",
-        "libelle": "8 Mai",
-        "distance": null,
-        "ligne": [
-            { "numLigne": "2" },
-            { "numLigne": "3" }
-        ]
-    }],
   "audiofilesselected": [
   ],
   "stations": [{"id":1,"name":"Gare de Lyon","announcement":["Annonce 1","Annonce 2"]},{"id":2,"name":"Gare du Nord","announcement":["Annonce 1","Annonce 2","Annonce 3"]}]
