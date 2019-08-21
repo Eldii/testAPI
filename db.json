@@ -12,6 +12,14 @@
        "workshop": 1,
        "isActive": true,
        "isProtected": true
+    },
+    {
+       "id": 2,
+       "number": "94",
+       "powerLevel": "SWITCHED_OFF",
+       "workshop": 1,
+       "isActive": true,
+       "isProtected": true
     } 
   ],
   "arrets": [
