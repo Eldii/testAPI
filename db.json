@@ -14,13 +14,45 @@
        "isProtected": true
     },
     {
-       "id": 2,
-       "number": "94",
-       "powerLevel": "SWITCHED_OFF",
-       "workshop": 1,
-       "isActive": true,
-       "isProtected": true
-    } 
+        "id": 2,
+        "number": "91",
+        "powerLevel": "V25000",
+        "workshop": 1,
+        "isActive": true,
+        "isProtected": true
+    },
+    {
+        "id": 3,
+        "number": "89",
+        "powerLevel": null,
+        "workshop": 1,
+        "isActive": true,
+        "isProtected": true
+    },
+    {
+        "id": 4,
+        "number": "87",
+        "powerLevel": null,
+        "workshop": 1,
+        "isActive": true,
+        "isProtected": false
+    },
+    {
+        "id": 5,
+        "number": "85",
+        "powerLevel": null,
+        "workshop": 1,
+        "isActive": true,
+        "isProtected": false
+    },
+    {
+        "id": 6,
+        "number": "83",
+        "powerLevel": null,
+        "workshop": 1,
+        "isActive": true,
+        "isProtected": false
+    }
   ],
   "arrets": [
     {
