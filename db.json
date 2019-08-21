@@ -36,14 +36,6 @@
         "workshop": 1,
         "isActive": true,
         "isProtected": false
-    },
-    {
-        "id": 5,
-        "number": "85",
-        "powerLevel": null,
-        "workshop": 1,
-        "isActive": true,
-        "isProtected": false
     }
   ],
   "arrets": [
