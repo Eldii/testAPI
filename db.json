@@ -42,6 +42,15 @@
             { "numLigne": "2" },
             { "numLigne": "3" }
         ]
+    },
+      {
+        "codeLieu": "TEST",
+        "libelle": "8 Mai",
+        "distance": null,
+        "ligne": [
+            { "numLigne": "2" },
+            { "numLigne": "3" }
+        ]
     }],
   "audiofilesselected": [
   ],
