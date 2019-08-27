@@ -41,7 +41,7 @@
         "id": 2,
         "number": "91",
         "powerLevel": "V25000",
-        "workshop": 1,
+        "workshop": 2,
         "isActive": true,
         "isProtected": true
     },
@@ -65,7 +65,7 @@
         "id": 5,
         "number": "85",
         "powerLevel": null,
-        "workshop": 1,
+        "workshop": 2,
         "isActive": true,
         "isProtected": false
     },
